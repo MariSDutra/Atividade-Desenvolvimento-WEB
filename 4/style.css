@@ -1,0 +1,9 @@
+p {
+  font-size: 23px;
+  color: #333;
+  transition: color 0.2s ease;
+}
+
+p:hover {
+  color: #c50585;
+}
