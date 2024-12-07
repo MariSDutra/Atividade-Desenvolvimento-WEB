@@ -7,7 +7,7 @@ function toggleTexto() {
     botao.textContent = 'Ocultar';
   } else {
     texto.style.display = 'none';
-    botao.textContent = 'Mostrar';
+    botao.textContent = 'Aparecer';
   }
 }
 
